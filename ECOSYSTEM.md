@@ -18,6 +18,7 @@ This is a list of axios related libraries and resources. If you have a suggestio
 * [r2curl](https://github.com/uyu423/r2curl) - Extracts the cURL command string from the Axios object. (AxiosResponse, AxiosRequestConfig)
 * [swagger-taxos-codegen](https://github.com/michalzaq12/swagger-taxos-codegen) - Axios based Swagger Codegen (tailored for typescript)
 * [axios-endpoints](https://github.com/renancaraujo/axios-endpoints) - Axios endpoints helps you to create a more concise endpoint mapping with axios. 
+* [OIDC](https://github.com/VilledeMontreal/authentication-nodejs-lib) -- transparent authentication of backend to backend API calls, using the OpenID Connect protocol
 
 ### Logging and debugging
 
